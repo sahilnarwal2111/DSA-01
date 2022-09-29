@@ -5,6 +5,7 @@ void display(int arr[], int n){
         printf("%d ",arr[i]);
     }
     printf("\n");
+//     printf("\n");
 }
 
 int indInsertion(int arr[],int size,int element, int capacity, int index){
