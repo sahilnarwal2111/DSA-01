@@ -27,7 +27,7 @@ void indDeletion(int arr[],int size, int index){
     
     int n;
     for(int i = index;i<size;i++){
-        //Swap
+        //Swap code
         arr[i] = arr[i+1];
     }
     
