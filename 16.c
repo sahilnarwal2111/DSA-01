@@ -20,6 +20,7 @@ int main()
     struct node * head;
     struct node * second;
     struct node * third;
+    //allocating memory in the heap
     head = (struct node *)malloc(sizeof(struct node));
     second = (struct node *)malloc(sizeof(struct node));
     third = (struct node *)malloc(sizeof(struct node));
