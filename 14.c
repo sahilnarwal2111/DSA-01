@@ -112,10 +112,10 @@ int main()
     head = insertAtIndex(head,67,2);
     head = insertAtEnd(head,67);
     head = insertAfterNode(head,23,second);
-    // head = deleteFirstNode(head);
+    // head = deleteFirstNode(head); 
     // head = deleteAtIndex(head,2);
     head = deleteLastElement(head);
-    
+    //Traversing the linked list
     linkedListTraversal(head);
     return 0;
 }
