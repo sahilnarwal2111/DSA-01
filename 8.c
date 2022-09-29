@@ -34,7 +34,7 @@ void setVal(struct myArray *a){
 
 }
 
-
+//Now calling all functions in main
 int main()
 {
     struct myArray marks;
