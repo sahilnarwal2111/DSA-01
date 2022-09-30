@@ -13,7 +13,7 @@ int indInsertion(int arr[],int size,int element, int capacity, int index){
     }
     int n;
     for(int i = size-1;i>=index;i--){
-        //Swap
+        //Swap//Swap//Swap
     
         arr[i+1] = arr[i];
         n = i;
