@@ -8,6 +8,7 @@ void linearSearch(int arr[], int element, int size){
         }
 
     }
+    
 }
 
 int binarySearch(int arr[], int element, int size){
