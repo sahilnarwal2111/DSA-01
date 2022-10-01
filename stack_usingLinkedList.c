@@ -44,6 +44,7 @@ struct node * push(struct node * top, int val){
     }
 }
 
+
 int pop(struct node ** top){
     if(isEmpty(*top)){
         printf("Stack Underflow!!");
