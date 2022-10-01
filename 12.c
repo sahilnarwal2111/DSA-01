@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+
 void linearSearch(int arr[], int element, int size){
     for(int i =0 ; i<size; i++){
         if(arr[i]==element){
