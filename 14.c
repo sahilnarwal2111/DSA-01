@@ -5,6 +5,8 @@ struct node
     
 {
     //
+    
+    
     //
     
     int data;
