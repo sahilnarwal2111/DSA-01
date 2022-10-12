@@ -2,6 +2,8 @@
 // scheduling
 #include<iostream>
 using namespace std;
+//
+//
 
 // Function to find the waiting time for all
 // processes
