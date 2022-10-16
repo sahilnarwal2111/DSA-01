@@ -1,0 +1,2 @@
+How Is Platform Engineering Different from DevOps and SRE?
+https://thenewstack.io/how-is-platform-engineering-different-from-devops-and-sre/
