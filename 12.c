@@ -9,6 +9,9 @@ void linearSearch(int arr[], int element, int size){
             printf("Element found at index %d\n",i);
             break;
         }
+        
+        
+        
 
     }
     
