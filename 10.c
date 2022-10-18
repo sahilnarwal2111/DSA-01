@@ -10,6 +10,8 @@ void display(int arr[], int n){
 int indInsertion(int arr[],int size,int element, int capacity, int index){
     if(size>capacity){
         return -1;
+        
+        
     }
     int n;
     for(int i = size-1;i>=index;i--){
