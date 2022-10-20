@@ -4,6 +4,7 @@
 #include <iostream>
 using namespace std;
 
+
 // Function to perform Ternary Search
 int ternarySearch(int l, int r, int key, int ar[])
 
