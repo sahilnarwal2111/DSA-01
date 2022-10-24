@@ -1,4 +1,5 @@
 # Python3 program for implementation
+
 # of FCFS scheduling
 
 # Function to find the waiting
