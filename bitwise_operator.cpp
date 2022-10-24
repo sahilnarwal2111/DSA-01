@@ -1,6 +1,7 @@
 //AND operator
 //OR operator
 //XOR operator:
+
     //if both value are same ->0
     //if both value are different ->1
 //ONES complement operator:
