@@ -5,6 +5,7 @@ int main(){
     cin>>a>>b;
     int i,j;
     for(i = a; i<=b ; i++){
+        
         for(j = 2; j<i; j++){
             if(i%j == 0){
                 break;
