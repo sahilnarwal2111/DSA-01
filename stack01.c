@@ -1,5 +1,6 @@
 // Implementing stack
 #include<stdio.h>
+
 #include<stdlib.h>
 struct stack{
     int top;
