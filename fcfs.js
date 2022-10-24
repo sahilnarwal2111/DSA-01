@@ -1,5 +1,4 @@
 <script>
-
 	// JavaScript program for implementation of FCFS
 // scheduling
 	
