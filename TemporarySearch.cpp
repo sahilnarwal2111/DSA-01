@@ -1,6 +1,7 @@
 // C++ program to illustrate
 // iterative approach to ternary search
 
+
 #include <iostream>
 using namespace std;
 
